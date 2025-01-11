@@ -5,7 +5,7 @@ public class Lab_013 {
         int age =65;
         int _ =76;
         int $ =89;
-        int 123 =86; //incorrect
+        //int 123 =86; //incorrect
         int this_is_dc_AD_ADSDF_sd_sA_ADS;
         // int is primitive data type-numeric
         //store  data without decimal point
