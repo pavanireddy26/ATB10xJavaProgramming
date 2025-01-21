@@ -1,6 +1,6 @@
 package ex_02_JavaBasics;
 
-public class Lab_026_Literals
+public class Lab_026_Boolean_Literals
 {
     public static void main(String[] args) {
         boolean  is_married= true;
@@ -12,7 +12,7 @@ public class Lab_026_Literals
          int age =89;
          int marks=-1; // 1 store 1's compliment(ECE subject)
 
-         //
+
 
 
     }
