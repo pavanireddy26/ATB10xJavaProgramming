@@ -1,6 +1,6 @@
 package ex_06_Increment_Decrement_Operator;
 
-public class Lab_061_Inputs {
+public class Lab_061_UserInputs {
     public static void main(String[] args) {
 
         // Take inputs from user (command line) -- click arrow in the top and select edit confirguation enter number and click apply and ok
