@@ -15,7 +15,10 @@ public class Lab_146_Array_max_Value_Interview {
         //o/p = int == 77max
 
         int max_output =give_max(array);
+        int min_output =give_min(array);
         System.out.println(max_output);
+        System.out.println(min_output);
+
 
 
     }       static int give_max(int[] array) {
@@ -31,5 +34,24 @@ public class Lab_146_Array_max_Value_Interview {
         }
         return max;
                      }
-                     }
+
+
+
+                static int give_min(int[] array) {
+                    //Logic
+                    int min = array[0];//25
+                    for (int i = 0; i < array.length; i++) {
+                        if (array[i] < min) {
+                            min = array[i];
+                        }
+                    }
+
+                    return min;
+                }}
+
+
+
+
+
+
 
