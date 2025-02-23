@@ -12,8 +12,8 @@ public class Lab_155_2d_Array_Iterate_ForLoop {
         //7,8,9
 
         for(int i=0; i <matrix.length ; i++){    // length is nothing but row
-            for(int j=0 ;j <matrix.length ;j++){
-                System.out.print(matrix[i][j]);
+            for(int j=0 ;j <matrix[i].length ;j++){
+                System.out.print(matrix[i][j] + "|");
             }
             System.out.println();
         }
