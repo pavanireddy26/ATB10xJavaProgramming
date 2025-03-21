@@ -2,7 +2,7 @@ package ex_15_OOPs;
 
 public class Lab_161 {
     public static void main(String[] args) {
-        Student s1= new Student();
+        Student s1= new Student();           //runner class
 
 
       //  1.Student -class loading
@@ -10,7 +10,7 @@ public class Lab_161 {
         //3. new student()  -> object creation
     }
 }
- class Student{
+ class Student{                            // normal class
     String name;
     int roll;
 

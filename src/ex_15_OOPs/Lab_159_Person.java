@@ -8,9 +8,10 @@ public class Lab_159_Person {
 //        void sleep() {
 //
 //        }
-//            int sleep() {
+//        int sleep2() {
 //            return 0;
 //        }
-  }
-   }
+//    }
 
+
+    }}
