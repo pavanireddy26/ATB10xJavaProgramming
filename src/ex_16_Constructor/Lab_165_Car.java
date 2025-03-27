@@ -2,6 +2,9 @@ package ex_16_Constructor;
 
 public class Lab_165_Car {
 
+
+
+
     String name;
     int year;
     String model;
@@ -11,10 +14,10 @@ public class Lab_165_Car {
 
          Lab_165_Car() {
 
-           name ="Unknown Car";
-           model ="XYZ";
-           year= 0000;
-             System.out.println("Defult Cnstructor");
+            name = "Unknown Car";
+            model = "XYZ";
+            year = 0000;
+            System.out.println("Default Cnstructor");
 
 
     }
