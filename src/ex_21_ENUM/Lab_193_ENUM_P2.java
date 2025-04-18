@@ -11,5 +11,5 @@ public class Lab_193_ENUM_P2 {
 
 
 enum URLS{
-    ggogle,restassured,katalon
+    google,restassured,katalon
 }
