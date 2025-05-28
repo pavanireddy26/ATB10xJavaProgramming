@@ -41,6 +41,6 @@ public class Bank {
             }
 
         }
-        return null;
+        return 0;
     }
     }
