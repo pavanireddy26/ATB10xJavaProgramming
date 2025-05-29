@@ -13,7 +13,8 @@ public class Lab_219_Arraylist {
         list.add("2"); //1
         list.add("3");  //2
         list.add("4"); //3
-        list.add(5);
+        list.add(5); //4
+        list.add(true); //5
 
         System.out.println(list.size());
         System.out.println(list.isEmpty());
@@ -23,7 +24,11 @@ public class Lab_219_Arraylist {
         System.out.println(list.lastIndexOf("4"));
 
         System.out.println(list); // to print all
-        for(in i)
+        System.out.println("----");
+
+        for(int i=0;i<list.size();i++) {  //print each element
+            System.out.println(list.get(i));
+        }
 
 
 
