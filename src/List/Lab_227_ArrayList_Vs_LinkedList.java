@@ -1,8 +1,7 @@
-package ex_25_Collections_Framework;
+package List;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
 
 public class Lab_227_ArrayList_Vs_LinkedList {
     public static void main(String[] args) {

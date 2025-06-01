@@ -1,6 +1,5 @@
-package ex_25_Collections_Framework;
+package List;
 
-import java.util.Iterator;
 import java.util.Stack;
 
 public class Lab_229_Stack {

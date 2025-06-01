@@ -1,4 +1,4 @@
-package ex_25_Collections_Framework;
+package List;
 
 import java.util.LinkedList;
 import java.util.List;

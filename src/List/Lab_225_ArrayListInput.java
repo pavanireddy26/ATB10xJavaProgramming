@@ -1,4 +1,4 @@
-package ex_25_Collections_Framework;
+package List;
 //
 //import java.util.ArrayList;
 //import java.util.Scanner;
