@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "8ec1eb15-11db-48fe-8fad-56b66c6036f7",
+		"name": "Project #6 - Data Driven Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42822426",
+		"_collection_link": "https://www.postman.com/flight-specialist-41221282/workspace/atbx/collection/42822426-8ec1eb15-11db-48fe-8fad-56b66c6036f7?action=share&source=collection_link&creator=42822426"
+	},
+	"item": [
+		{
+			"name": "Login to User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
